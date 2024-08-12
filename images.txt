@@ -4,4 +4,3 @@ busybox:1.28
 busybox:latest
 ubuntu:22.04
 httpd:latest
-controller:v1.10.1
