@@ -1,4 +1,4 @@
-rockeylinux:9
+rockylinux:9
 nginx:latest
 busybox:1.28
 busybox:latest
